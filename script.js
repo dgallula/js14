@@ -188,8 +188,8 @@
 
 //  const arr= [2,5,3,9,88,20,15,19,13,69,63,54,23,89,99,47,51,77,83]
  
-//  let biggest = arr.reduce((a,b)=> b < a ? b : a  );
-//  console.log(biggest)
+//  let smallest = arr.reduce((a,b)=> b < a ? b : a  );
+//  console.log(smallest)
 
 
 
