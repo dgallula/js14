@@ -160,19 +160,14 @@
   // 7 determiner si un chiffre est pair ou impair 
 
 
-  //   const numbers= [2,5,3,9,88,20,15,19,13,69,63,54,23,89,99,47,51,77,83]
+    const arr= [2,5,3,9,88,20,15,19,13,69,63,54,23,89,99,47,51,77,83]
 
-  // function runCode() {
-  // let item
+   function runCode() {
+   let value
 
-  //  numbers.forEach(items => { 
-  //    if (item %2 ===0 ) {
-  //      return item
-  //    }
-
-  //  });
-  //  console.log(item)
-  //  }
+    const evenNumberForEach = arr.forEach(num => num %2 ===0);
+    console.log(evenNumberForEach)
+     }
 
 
 
